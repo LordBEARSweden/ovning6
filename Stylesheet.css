@@ -1,3 +1,9 @@
 body{
-background-color: rgb(56, 80, 14);
+background-color: rgb(150, 182, 135);
+text-align: center;
+}
+footer {
+    height: 50px;
+    background-color: rgb(0, 139, 120);
+    
 }
